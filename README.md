@@ -10,7 +10,9 @@
 ### 2018
 - Posters in [NII open house](https://www.nii.ac.jp/openhouse/) (in Japanese)
     - [クラウド基盤の見える化による、確かなシステム運用](https://www.nii.ac.jp/event/openhouse/2018/upload/A17-2018.pdf)
+        - [動画](https://youtu.be/8LNQAaQr2Js)
     - [独自拡張したJupyter Notebookによる「実行できる手順書」](https://www.nii.ac.jp/event/openhouse/2018/upload/A18-2018.pdf)
+        - [動画](https://youtu.be/bLaVuNpntT8)
     - [複数のクラウド環境にまたがる分散アプリケーション環境の実現](https://www.nii.ac.jp/event/openhouse/2018/upload/A19-1-2018.pdf)
     - [学認クラウドオンデマンド構築サービス（H30年10月開始予定）](https://www.nii.ac.jp/event/openhouse/2018/upload/A19-2-2018.pdf)
 - Links to the sessions in [NII open forum](https://www.nii.ac.jp/service/openforum2018/) (in Japanese)
