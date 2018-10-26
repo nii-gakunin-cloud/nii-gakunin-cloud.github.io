@@ -1,39 +1,20 @@
 # Center for Cloud Research and Development
-## About the Center for Cloud Research and Development
-
-- [Japanese page](https://www.nii.ac.jp/research/centers/ccrd/)
-- [English page](https://www.nii.ac.jp/en/research/centers/ccrd/)
 
 ## Publications
 
-## 所内イベント
-- Posters [NII open house 2018](https://www.nii.ac.jp/openhouse/) (in Japanese)
-    - [クラウド基盤の見える化による、確かなシステム運用](https://www.nii.ac.jp/event/openhouse/2018/upload/A17-2018.pdf)
-        - [動画](https://youtu.be/8LNQAaQr2Js)
-    - [独自拡張したJupyter Notebookによる「実行できる手順書」](https://www.nii.ac.jp/event/openhouse/2018/upload/A18-2018.pdf)
-        - [動画](https://youtu.be/bLaVuNpntT8)
-    - [複数のクラウド環境にまたがる分散アプリケーション環境の実現](https://www.nii.ac.jp/event/openhouse/2018/upload/A19-1-2018.pdf)
-    - [学認クラウドオンデマンド構築サービス（H30年10月開始予定）](https://www.nii.ac.jp/event/openhouse/2018/upload/A19-2-2018.pdf)
-- Presentations in [NII open forum 2018](https://www.nii.ac.jp/service/openforum2018/) (in Japanese)
-    - [クラウド活用最新事例](https://www.nii.ac.jp/service/openforum2018/track/day1_4.html)
-    - [つながるオープンサイエンス基盤：研究データの管理・公開・検索を考えるアイデアソン](https://www.nii.ac.jp/service/openforum2018/track/day1_1.html)
-    - [GakuNin RDM：研究データ管理基盤サービス](https://www.nii.ac.jp/service/openforum2018/track/day1_7.html)
-    - [クラウド利活用のためのクラウドゲートウェイ](https://www.nii.ac.jp/service/openforum2018/track/day2_5.html)
-    - [オンデマンドクラウド構築サービス](https://www.nii.ac.jp/service/openforum2018/track/day2_6.html)
-    - [学認について](https://www.nii.ac.jp/service/openforum2018/track/day2_2.html)
+## 全体
+- [Link] クラウド基盤研究開発センター (公式サイト) [Link (jp)](https://www.nii.ac.jp/research/centers/ccrd/), [Link (en)](https://www.nii.ac.jp/en/research/centers/ccrd/)
 
-## VCP
-- Official site: [学認クラウドオンデマンド構築サービス](https://cloud.gakunin.jp/ocs/)
-- Presentation in NII open forum 2018: [オンデマンドクラウド構築サービス](https://www.nii.ac.jp/service/openforum2018/track/day2_6.html)
-- Poster in NII open house 2018: [学認クラウドオンデマンド構築サービス（H30年10月開始予定）](https://www.nii.ac.jp/event/openhouse/2018/upload/A19-2-2018.pdf)
+## Virtual Cloud Provider (VCP)
+- [Link] 学認クラウドオンデマンド構築サービス (公式サイト) [Link](https://cloud.gakunin.jp/ocs/)
+- [Link] クラウドトラック③ 「オンデマンドクラウド構築サービス」，NII オープンフォーラム，2018年6月．[Link](https://www.nii.ac.jp/service/openforum2018/track/day2_6.html)
+- [Poster] 学認クラウドオンデマンド構築サービス（H30年10月開始予定），竹房 あつ子，NII オープンハウス，2018年6月．[PDF](https://www.nii.ac.jp/event/openhouse/2018/upload/A19-2-2018.pdf)
 
-## VCP応用
-- Poster in NII open house 2018: [複数のクラウド環境にまたがる分散アプリケーション環境の実現](https://www.nii.ac.jp/event/openhouse/2018/upload/A19-1-2018.pdf)
+## Applications of VCP
+- [Poster] 複数のクラウド環境にまたがる分散アプリケーション環境の実現，丹生 智也，NII オープンハウス，2018年6月． [PDF](https://www.nii.ac.jp/event/openhouse/2018/upload/A19-1-2018.pdf)
+- [Paper] Dynamic Framework for Reconfiguring Computing Resources in the Inter-Cloud and Its Application to Genome Analysis Workflows, Tomoya Tanjo, Sun Jingtao, Kazushige Saga, Atsuko Takefusa, and Kento Aida, In Proceedings of the 11th International Conference on Internet and Distributed Computing Systems (IDCS 2018), Oct. 2018. pp.160-172. [Link](https://doi.org/10.1007/978-3-030-02738-4_14)
 
-## LC4RI
-- Posters in NII open house 2018
-  - [クラウド基盤の見える化による、確かなシステム運用](https://www.nii.ac.jp/event/openhouse/2018/upload/A17-2018.pdf)
-    - [動画](https://youtu.be/8LNQAaQr2Js)
-  - [独自拡張したJupyter Notebookによる「実行できる手順書」](https://www.nii.ac.jp/event/openhouse/2018/upload/A18-2018.pdf)
-    - [動画](https://youtu.be/bLaVuNpntT8)
+## Literate Computing for Reproducible Infrastructure (LC4RI)
+- [Poster] クラウド基盤の見える化による、確かなシステム運用，NII オープンハウス，2018年6月．[PDF](https://www.nii.ac.jp/event/openhouse/2018/upload/A17-2018.pdf), [Movie](https://youtu.be/8LNQAaQr2Js)
+- [Poster] 独自拡張したJupyter Notebookによる「実行できる手順書」，NII オープンハウス，2018年6月．[PDF](https://www.nii.ac.jp/event/openhouse/2018/upload/A18-2018.pdf), [Movie](https://youtu.be/bLaVuNpntT8)
 
