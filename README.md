@@ -12,7 +12,7 @@
 
 ## Applications of VCP
 - [Poster] 複数のクラウド環境にまたがる分散アプリケーション環境の実現，丹生 智也，NII オープンハウス，2018年6月． [PDF](https://www.nii.ac.jp/event/openhouse/2018/upload/A19-1-2018.pdf)
-- [Paper] Dynamic Framework for Reconfiguring Computing Resources in the Inter-Cloud and Its Application to Genome Analysis Workflows, Tomoya Tanjo, Sun Jingtao, Kazushige Saga, Atsuko Takefusa, and Kento Aida, In Proceedings of the 11th International Conference on Internet and Distributed Computing Systems (IDCS 2018), Oct. 2018. pp.160-172. [Link](https://doi.org/10.1007/978-3-030-02738-4_14)
+- [Paper] Dynamic Framework for Reconfiguring Computing Resources in the Inter-Cloud and Its Application to Genome Analysis Workflows. Tomoya Tanjo, Sun Jingtao, Kazushige Saga, Atsuko Takefusa, and Kento Aida: In Proceedings of the 11th International Conference on Internet and Distributed Computing Systems (IDCS 2018), Oct. 2018. pp.160-172. [Link](https://doi.org/10.1007/978-3-030-02738-4_14)
 
 ## Literate Computing for Reproducible Infrastructure (LC4RI)
 - [Poster] クラウド基盤の見える化による、確かなシステム運用，NII オープンハウス，2018年6月．[PDF](https://www.nii.ac.jp/event/openhouse/2018/upload/A17-2018.pdf), [Movie](https://youtu.be/8LNQAaQr2Js)
