@@ -2,7 +2,7 @@
 
 ## Publications
 
-## 全体
+## Overview
 - [Link] クラウド基盤研究開発センター (公式サイト) [Link (jp)](https://www.nii.ac.jp/research/centers/ccrd/), [Link (en)](https://www.nii.ac.jp/en/research/centers/ccrd/)
 
 ## Virtual Cloud Provider (VCP)
