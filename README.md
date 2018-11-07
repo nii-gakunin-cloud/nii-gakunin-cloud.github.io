@@ -30,3 +30,6 @@
 - [Poster] クラウド基盤の見える化による、確かなシステム運用，NII オープンハウス，2018年6月．[PDF](https://www.nii.ac.jp/event/openhouse/2018/upload/A17-2018.pdf), [Movie](https://youtu.be/8LNQAaQr2Js)
 - [Poster] 独自拡張したJupyter Notebookによる「実行できる手順書」，NII オープンハウス，2018年6月．[PDF](https://www.nii.ac.jp/event/openhouse/2018/upload/A18-2018.pdf), [Movie](https://youtu.be/bLaVuNpntT8)
 
+## PoC of Storing Scientific Research Data in Cloud Cold Storage Services
+### English
+- [Presentation] Experiments in Storing Scientific Research Data in Cloud Cold Storage Services. Hiroshi Yoshida: In presentations of Storage Developers Conference 2018.  [Link](https://www.snia.org/sites/default/files/SDC/2018/presentations/Cloud_Storage/Yoshida_Hiroshi_Experiments_in_Storing_Scientific_Research_Data_in_Cloud_Cold_Storage_Services.pdf)
