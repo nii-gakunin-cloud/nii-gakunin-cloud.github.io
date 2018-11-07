@@ -5,6 +5,7 @@
 ## Overview
 ### English
 - [Link] Center for Cloud Research and Development (Official Site) [Link](https://www.nii.ac.jp/en/research/centers/ccrd/)
+- [Posters] Building Academic Inter-Cloud Infrastructure, SC18, Nov. 2018. [Link](https://www.dropbox.com/s/3y3ikj1hc02z263/SC18_NII.pdf?dl=0)
 ### Japanese
 - [Link] 学認クラウド (公式サイト) [Link](https://cloud.gakunin.jp/)
 - [Link] クラウド基盤研究開発センター (公式サイト) [Link (jp)](https://www.nii.ac.jp/research/centers/ccrd/), [Link (en)](https://www.nii.ac.jp/en/research/centers/ccrd/)
