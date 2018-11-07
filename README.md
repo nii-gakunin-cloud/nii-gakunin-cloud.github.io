@@ -1,11 +1,11 @@
 # Center for Cloud Research and Development
 
+## Publications
+
 - [Overview](#overview)
 - [Virtual Cloud Provider (VCP)](#vcp)
 - [Applications of VCP](#applications)
 - [Literate Computing for Reproducible Infrastructure (LC4RI)](#lc4ri)
-
-## Publications
 
 <a name="overview"> </a>
 
