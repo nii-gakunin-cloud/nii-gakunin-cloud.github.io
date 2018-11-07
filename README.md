@@ -4,7 +4,7 @@
 
 ## Overview
 ### English
-- [Link] Center for Cloud Research and Development (Official Site) [Link](https://www.nii.ac.jp/en/research/centers/ccrd/), [Link]
+- [Link] Center for Cloud Research and Development (Official Site) [Link](https://www.nii.ac.jp/en/research/centers/ccrd/)
 ### Japanese
 - [Link] 学認クラウド (公式サイト) [Link](https://cloud.gakunin.jp/)
 - [Link] クラウド基盤研究開発センター (公式サイト) [Link (jp)](https://www.nii.ac.jp/research/centers/ccrd/), [Link (en)](https://www.nii.ac.jp/en/research/centers/ccrd/)
