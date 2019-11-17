@@ -6,6 +6,7 @@
 - [Virtual Cloud Provider (VCP)](#vcp)
 - [Applications of VCP](#applications)
 - [Literate Computing for Reproducible Infrastructure (LC4RI)](#lc4ri)
+- [PoC of Storing Scientific Research Data in Cloud Cold Storage Services](#storage)
 
 <a name="overview"> </a>
 
@@ -31,8 +32,9 @@
 ### Japanese
 - [Link] 学認クラウドオンデマンド構築サービス (公式サイト) [Link](https://cloud.gakunin.jp/ocs/)
 - [Link] 学認クラウドオンデマンド構築サービス 過去のハンズオン教材 [Link](https://github.com/nii-gakunin-cloud/handson)
-- [Link] クラウドトラック③ 「オンデマンドクラウド構築サービス」， NII オープンフォーラム， 2018年6月．[Link](https://www.nii.ac.jp/service/openforum2018/track/day2_6.html)
-- [Poster] 学認クラウドオンデマンド構築サービス（H30年10月開始予定），竹房 あつ子，NII オープンハウス，2018年6月．[PDF](https://www.nii.ac.jp/event/openhouse/2018/upload/A19-2-2018.pdf)
+- [Link] NII オープンフォーラム2019 クラウドトラック(2) 「学認クラウド活用支援と事例紹介」， 2019年6月．[Link](https://www.nii.ac.jp/openforum/2019/day2_3.html)
+- [Link] NII オープンフォーラム2018 クラウドトラック(3) 「オンデマンドクラウド構築サービス」， 2018年6月．[Link](https://www.nii.ac.jp/service/openforum2018/track/day2_6.html)
+- [Poster] 学認クラウドオンデマンド構築サービス（H30年10月開始予定）， 竹房 あつ子， NII オープンハウス， 2018年6月．[PDF](https://www.nii.ac.jp/event/openhouse/2018/upload/A19-2-2018.pdf)
 - [Paper] インタークラウド環境構築システムによるアプリケーション環境構築支援のための機能拡張, 竹房 あつ子， 丹生 智也， 佐賀 一繁， 横山 重俊， 合田 憲人, 情報処理学会研究報告 Vol.2018-OS-144(10), pp. 1-10, 2018年7月. 
 - [Paper] Virtual Cloud Service System for Building Effective Inter-Cloud Applications, Atsuko Takefusa, Shigetoshi Yokoyama, Yoshinobu Masatani, Tomoya Tanjo, Kazushige Saga, Masaru Nagaku, Kento Aida, Proc. IEEE CloudCom 2017, pp. 296-303, Dec. 2017. [Link](http://dx.doi.org/10.1109/CloudCom.2017.48)
 - [Paper] SINETを活用したインタークラウド環境構築システムの開発, 竹房 あつ子, 横山 重俊, 政谷 好伸, 丹生 智也, 佐賀 一繁, 長久 勝, 合田 憲人, 電子情報通信学会技術研究報告 CPSY2017-17, pp. 7-12, 2017年7月. [Link](https://www.ieice.org/ken/paper/20170726ibv7/)
@@ -57,6 +59,8 @@
 ### Japanese
 - [Poster] クラウド基盤の見える化による、確かなシステム運用，NII オープンハウス，2018年6月．[PDF](https://www.nii.ac.jp/event/openhouse/2018/upload/A17-2018.pdf), [Movie](https://youtu.be/8LNQAaQr2Js)
 - [Poster] 独自拡張したJupyter Notebookによる「実行できる手順書」，NII オープンハウス，2018年6月．[PDF](https://www.nii.ac.jp/event/openhouse/2018/upload/A18-2018.pdf), [Movie](https://youtu.be/bLaVuNpntT8)
+
+<a name="storage"> </a>
 
 ## PoC of Storing Scientific Research Data in Cloud Cold Storage Services
 ### English
