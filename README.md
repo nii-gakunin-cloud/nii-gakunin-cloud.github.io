@@ -21,6 +21,7 @@
 ### Japanese
 - [Link] 学認クラウド (公式サイト) [Link](https://cloud.gakunin.jp/)
 - [Link] クラウド基盤研究開発センター (公式サイト) [Link (jp)](https://www.nii.ac.jp/research/centers/ccrd/), [Link (en)](https://www.nii.ac.jp/en/research/centers/ccrd/)
+- [Link] Building Academic Inter-Cloud Infrastructure, SC20, Nov. 2020. [Link](https://ccrd.nii.ac.jp/sc20/)
 - [Posters] Building Academic Inter-Cloud Infrastructure, SC19, Nov. 2019. [Link](https://www.dropbox.com/s/3m2f2949c46b0cd/SC19_NII.pdf?dl=0)
 - [Posters] Building Academic Inter-Cloud Infrastructure, SC18, Nov. 2018. [Link](https://www.dropbox.com/s/3y3ikj1hc02z263/SC18_NII.pdf?dl=0)
 
@@ -34,6 +35,7 @@
 ### Japanese
 - [Link] 学認クラウドオンデマンド構築サービス (公式サイト) [Link](https://cloud.gakunin.jp/ocs/)
 - [Link] 学認クラウドオンデマンド構築サービス 過去のハンズオン教材 [Link](https://github.com/nii-gakunin-cloud/handson)
+- [Link] NII オープンフォーラム2020 クラウドトラック(2) 「学認クラウドオンデマンド構築サービス・SINETStream」， 2020年6月．[Link](https://www.nii.ac.jp/openforum/2020/day2_cloud2.html)
 - [Link] NII オープンフォーラム2019 クラウドトラック(2) 「学認クラウド活用支援と事例紹介」， 2019年6月．[Link](https://www.nii.ac.jp/openforum/2019/day2_3.html)
 - [Link] ニュースリリース: クラウド計算環境を容易に構築・再構築／「学認クラウドオンデマンド構築サービス」の本運用を10月1日から開始 [Link](https://www.nii.ac.jp/news/release/2018/1001.html)
 - [Link] NII オープンフォーラム2018 クラウドトラック(3) 「オンデマンドクラウド構築サービス」， 2018年6月．[Link](https://www.nii.ac.jp/service/openforum2018/track/day2_6.html)
@@ -82,6 +84,11 @@
 
 ### Japanese
 - [Link] SINETStream (公式サイト) [Link](https://nii-gakunin-cloud.github.io/sinetstream/)
+- [Presentation] SINETStreamによるIoTアプリケーション開発支援, 竹房あつ子, ADVNET2020, 2020年10月9日.[Link](https://www.sinet.ad.jp/events/advnet2020)
+- [Paper] SINET広域データ収集基盤を用いたオンラインビデオ処理実証実験, 竹房 あつ子, 孫 静涛, 藤原 一毅, 長久 勝, 吉田 浩, 政谷 好伸, 合田 憲人, 情報処理学会論文誌デジタルプラクティス, vol. 1, no. 1, pp. 45 – 57, 2020年10月.[Link](http://id.nii.ac.jp/1001/00207284/)
+- [Presentation] エッジ・クラウドを活用したIoTアプリケーション構築技術, 竹房 あつ子, ネットワーク仮想化研究会招待講演 2020年9月10日.
+- [Paper] IoTアプリ構築支援のためのSINETStream Android用プラグインの開発, 孫 静涛, 竹房 あつ子, 藤原 一毅, 吉田 浩, 合田 憲人, マルチメディア，分散，協調とモバイル(DICOMO2020)シンポジウム, pp. 421-427, 2020年6月24日.
+- [Link] NII オープンフォーラム2020 クラウドトラック(2) 「学認クラウドオンデマンド構築サービス・SINETStream」， 2020年6月．[Link](https://www.nii.ac.jp/openforum/2020/day2_cloud2.html)
 - [Link] ニュースリリース: 広域データ収集・解析プログラム開発を支援するソフトウェアパッケージ「SINETStream(サイネットストリーム)」を公開 ～Society 5.0の実現に向けSINET5を介した研究を推進〜 [Link](https://www.nii.ac.jp/news/release/2019/1225.html)
 - [Paper] SINET広域データ収集基盤のための基盤ソフトウェアの検討, 孫 静涛， 藤原 一毅， 竹房 あつ子， 長久 勝， 吉田 浩， 政谷 好伸， 合田 憲人, 情報処理学会研究報告 Vol.2019-OS-147(11), pp. 1-9, 2019年7月.
 - [Paper] SINET広域データ収集基盤を用いたリアルタイムビデオ処理機構の検討, 竹房 あつ子, 孫 静涛, 長久 勝, 吉田 浩, 政谷 好伸, 合田 憲人, マルチメディア，分散，協調とモバイル DICOMO2019シンポジウム論文集, pp. 1581-1588, 2019年7月.
