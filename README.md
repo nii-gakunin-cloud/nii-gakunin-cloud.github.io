@@ -36,6 +36,8 @@
 - [Link] 学認クラウドオンデマンド構築サービス (公式サイト) [Link](https://cloud.gakunin.jp/ocs/)
 - [Link] 学認クラウドオンデマンド構築サービス 過去のハンズオン教材 [Link](https://github.com/nii-gakunin-cloud/handson)
 - [Link] NII オープンフォーラム2020 クラウドトラック(2) 「学認クラウドオンデマンド構築サービス・SINETStream」， 2020年6月． [Link](https://www.nii.ac.jp/openforum/2020/day2_cloud2.html)
+- [Poster] 学認クラウドオンデマンド構築サービス, 佐賀 一繁, 竹房 あつ子, 丹生 智也, 横山 重俊, 合田 憲人,
+AXIES 2019, 2019年12月．
 - [Link] NII オープンフォーラム2019 クラウドトラック(2) 「学認クラウド活用支援と事例紹介」， 2019年6月． [Link](https://www.nii.ac.jp/openforum/2019/day2_3.html)
 - [Link] ニュースリリース: クラウド計算環境を容易に構築・再構築／「学認クラウドオンデマンド構築サービス」の本運用を10月1日から開始. [Link](https://www.nii.ac.jp/news/release/2018/1001.html)
 - [Link] NII オープンフォーラム2018 クラウドトラック(3) 「オンデマンドクラウド構築サービス」， 2018年6月． [Link](https://www.nii.ac.jp/service/openforum2018/track/day2_6.html)
