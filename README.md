@@ -50,12 +50,18 @@ AXIES 2019, 2019年12月．
 
 <a name="applications"> </a>
 
-## Applications of VCP
+## Dynamic Reconfiguration Framework and its Applications
 ### English
+- [Link] ep3: A workflow engine for CWL which aims to have a pluggable architecture (Repository) [Link](https://github.com/tom-tan/ep3)
+- [Link] DrillHawk: A visualizer of workflow execution records for CWL (Repository) [Link](https://github.com/tom-tan/drill-hawk)
 - [Paper] Dynamic Framework for Reconfiguring Computing Resources in the Inter-Cloud and Its Application to Genome Analysis Workflows. Tomoya Tanjo, Sun Jingtao, Kazushige Saga, Atsuko Takefusa, and Kento Aida: In Proceedings of the 11th International Conference on Internet and Distributed Computing Systems (IDCS 2018), pp.160-172. Oct. 2018. [Link](https://doi.org/10.1007/978-3-030-02738-4_14)
 
 ### Japanese
-- [Poster] 複数のクラウド環境にまたがる分散アプリケーション環境の実現，丹生 智也，NII オープンハウス，2018年6月． [PDF](https://www.nii.ac.jp/event/openhouse/2018/upload/A19-1-2018.pdf)
+- [Link] ep3: A workflow engine for CWL which aims to have a pluggable architecture (Repository) [Link](https://github.com/tom-tan/ep3)
+- [Link] DrillHawk: A visualizer of workflow execution records for CWL (Repository) [Link](https://github.com/tom-tan/drill-hawk)
+- [Poster] ネットワークとクラウドを活用してデータ収集から解析まで - IoT、ビッグデータ、教育基盤，NII オープンハウス，2020年6月． [PDF](https://www.nii.ac.jp/event/upload/A01-1_oh2020.pdf)
+- [Poster] 複数のクラウド環境にまたがる分散アプリケーション環境の実現，NII オープンハウス，2019年6月． [PDF](https://www.nii.ac.jp/event/openhouse/2019/upload/A08_oh2019.pdf)
+- [Poster] 複数のクラウド環境にまたがる分散アプリケーション環境の実現，NII オープンハウス，2018年6月． [PDF](https://www.nii.ac.jp/event/openhouse/2018/upload/A19-1-2018.pdf)
 - [Paper] Dynamic Framework for Reconfiguring Computing Resources in the Inter-Cloud and Its Application to Genome Analysis Workflows. Tomoya Tanjo, Sun Jingtao, Kazushige Saga, Atsuko Takefusa, and Kento Aida: In Proceedings of the 11th International Conference on Internet and Distributed Computing Systems (IDCS 2018), pp.160-172. Oct. 2018. [Link](https://doi.org/10.1007/978-3-030-02738-4_14)
 
 <a name="lc4ri"> </a>
