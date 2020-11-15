@@ -53,16 +53,35 @@ AXIES 2019, 2019年12月．
 ## Dynamic Reconfiguration Framework and its Applications
 ### English
 - [Link] ep3: A workflow engine for CWL which aims to have a pluggable architecture (Repository) [Link](https://github.com/tom-tan/ep3)
+- [Link] medal: A workflow engine based on Petri nets (Repository) [Link](https://github.com/tom-tan/medal)
 - [Link] DrillHawk: A visualizer of workflow execution records for CWL (Repository) [Link](https://github.com/tom-tan/drill-hawk)
+
+- [Presentation] How to pass the conformance test #1, Tomoya Tanjo, CWL Workshop Tokyo 2018, Dec. 2018. [Link](https://speakerdeck.com/ttanjo/how-to-pass-the-conformance-test-number-1)
 - [Paper] Dynamic Framework for Reconfiguring Computing Resources in the Inter-Cloud and Its Application to Genome Analysis Workflows. Tomoya Tanjo, Sun Jingtao, Kazushige Saga, Atsuko Takefusa, and Kento Aida: In Proceedings of the 11th International Conference on Internet and Distributed Computing Systems (IDCS 2018), pp.160-172. Oct. 2018. [Link](https://doi.org/10.1007/978-3-030-02738-4_14)
+- [Presentation] Automatic Configuration of Galaxy Servers over Multiple Cloud Platforms Using Virtual Cloud Provider. Tomoya Tanjo, Kento Aida, Atsuko Takefusa, Yoshinobu Masatani, Shigetoshi Yokoyama: Galaxy Australasia Meeting 2017 (GAMe 2017), Feb. 2017.
 
 ### Japanese
 - [Link] ep3: A workflow engine for CWL which aims to have a pluggable architecture (Repository) [Link](https://github.com/tom-tan/ep3)
+- [Link] medal: A workflow engine based on Petri nets (Repository) [Link](https://github.com/tom-tan/medal)
 - [Link] DrillHawk: A visualizer of workflow execution records for CWL (Repository) [Link](https://github.com/tom-tan/drill-hawk)
+
+- [Presentation] インタークラウド上でのゲノム解析ワークフロー実行支援システム，丹生 智也、佐賀 一繁、孫 静涛、竹房 あつ子、合田 憲人，Cloud Week 2020@Hokkaido University，2020年9月． [Link](https://www.youtube.com/watch?v=gKzkayAPC1w&feature=emb_logo)
 - [Poster] ネットワークとクラウドを活用してデータ収集から解析まで - IoT、ビッグデータ、教育基盤，NII オープンハウス，2020年6月． [PDF](https://www.nii.ac.jp/event/upload/A01-1_oh2020.pdf)
+- [Presentation] 雑に始めるCWL！，丹生 智也，第8回生命医薬情報学連合大会(IIBMP2019)，2019年9月． [Link](https://docs.google.com/presentation/d/1XwOC18LzDvaTqw1QAGI6L7djhL5CEkQL5aiGZEdnK1Y/edit#slide=id.g60d002c0b6_5_60)
+- [Presentation] 実行環境の再構成を実現するためのミドルウェア技術と解析ワークフローへの応用，丹生 智也，佐賀 一繁，孫 静涛，竹房 あつ子，合田 憲人，Cloud Week 2019@Hokkaido University，2019年9月．
 - [Poster] 複数のクラウド環境にまたがる分散アプリケーション環境の実現，NII オープンハウス，2019年6月． [PDF](https://www.nii.ac.jp/event/openhouse/2019/upload/A08_oh2019.pdf)
+- [Presentation] How to pass the conformance test #1, Tomoya Tanjo, CWL Workshop Tokyo 2018, Dec. 2018. [Link](https://speakerdeck.com/ttanjo/how-to-pass-the-conformance-test-number-1)
 - [Poster] 複数のクラウド環境にまたがる分散アプリケーション環境の実現，NII オープンハウス，2018年6月． [PDF](https://www.nii.ac.jp/event/openhouse/2018/upload/A19-1-2018.pdf)
 - [Paper] Dynamic Framework for Reconfiguring Computing Resources in the Inter-Cloud and Its Application to Genome Analysis Workflows. Tomoya Tanjo, Sun Jingtao, Kazushige Saga, Atsuko Takefusa, and Kento Aida: In Proceedings of the 11th International Conference on Internet and Distributed Computing Systems (IDCS 2018), pp.160-172. Oct. 2018. [Link](https://doi.org/10.1007/978-3-030-02738-4_14)
+- [Presentation] ワークフローを Common Workflow Language で記述する，丹生 智也，第7回生命医薬情報学連合大会(IIBMP2018)，2018年9月． [Link](https://docs.google.com/presentation/d/1ZNw6r0UAFpB1eMGZRhtT3DtMXWn_Umj53F9GdprHHm0/edit#slide=id.g40f936eacd_4_0)
+- [Presentation] アプリケーション固有の指標を用いて実行環境の再構成を行うインタークラウドミドルウェア技術について，Tomoya Tanjo，Cloud Week2018@Hokkaido University，2018年9月．
+- [Presentation] 複数のクラウド上に Galaxy 環境を構築する，丹生 智也，2017年度生命科学系学会合同年次大会(ConBio2017)，2017年11月． [Link](https://docs.google.com/presentation/d/e/2PACX-1vTTXMS0Z_b5D9MePmtzvDcO-GO2IQS9etZAA3faDyRx5Iyw909rq4AsM6rnqm7-DSeCY_Fxiazo9fav/pub?start=false&loop=false&delayms=3000&slide=id.g2be671f323_0_0)
+- [Presentation] インタークラウド上でアプリケーションに最適化された計算環境を実現するミドルウェア技術，丹生 智也，Cloud Week 2017@Hokkaido University，2017年9月．
+- [Paper] インタークラウド環境における計算資源の動的再構成フレームワークの提案，丹生智也, 合田憲人, 竹房あつ子, 政谷好伸, 横山重俊, 情報処理学会研究報告 Vol.2017‐HPC‐160(3), pp. 1‐9，2017年7月． [Link](https://ipsj.ixsq.nii.ac.jp/ej/index.php?active_action=repository_view_main_item_detail&page_id=13&block_id=8&item_id=182764&item_no=1)
+- [Presentation] インタークラウド環境における計算資源の動的再構成フレームワークの実現に向けて，丹生 智也, 合田 憲人, 竹房 あつ子, 政谷 好伸, 横山 重俊，The 1st cross-disciplinary Workshop on Computing Systems, Infrastructures, and Programming (xSIG2017)，2017年4月．
+- [Presentation] Automatic Configuration of Galaxy Servers over Multiple Cloud Platforms Using Virtual Cloud Provider. Tomoya Tanjo, Kento Aida, Atsuko Takefusa, Yoshinobu Masatani, Shigetoshi Yokoyama: Galaxy Australasia Meeting 2017 (GAMe 2017), Feb. 2017.
+- [Poster] インタークラウド上でアプリケーション環境の構築を行うミドルウェア技術について，丹生 智也, 合田 憲人, 竹房 あつ子, 政谷 好伸, 横山 重俊，第28回コンピュータシステム・シンポジウム (ComSys2016)，2016年11月． [Abstract](http://www.ipsj.or.jp/sig/os/index.php?plugin=attach&refer=ComSys2016%20%A5%DD%A5%B9%A5%BF%A1%BC%A5%BB%A5%C3%A5%B7%A5%E7%A5%F3&openfile=ComSys_2016_paper_26.pdf)
+- [Presentation] オーバーレイクラウド基盤ミドルウェア技術の概要と計算資源の動的再構成技術の実現に向けて，丹生 智也，Cloud Week 2016@Hokkaido University，2016年8月．
 
 <a name="lc4ri"> </a>
 
