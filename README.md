@@ -55,7 +55,6 @@ AXIES 2019, 2019年12月．
 - [Link] ep3: A workflow engine for CWL which aims to have a pluggable architecture (Repository) [Link](https://github.com/tom-tan/ep3)
 - [Link] medal: A workflow engine based on Petri nets (Repository) [Link](https://github.com/tom-tan/medal)
 - [Link] DrillHawk: A visualizer of workflow execution records for CWL (Repository) [Link](https://github.com/tom-tan/drill-hawk)
-
 - [Presentation] How to pass the conformance test #1, Tomoya Tanjo, CWL Workshop Tokyo 2018, Dec. 2018. [Link](https://speakerdeck.com/ttanjo/how-to-pass-the-conformance-test-number-1)
 - [Paper] Dynamic Framework for Reconfiguring Computing Resources in the Inter-Cloud and Its Application to Genome Analysis Workflows. Tomoya Tanjo, Sun Jingtao, Kazushige Saga, Atsuko Takefusa, and Kento Aida: In Proceedings of the 11th International Conference on Internet and Distributed Computing Systems (IDCS 2018), pp.160-172. Oct. 2018. [Link](https://doi.org/10.1007/978-3-030-02738-4_14)
 - [Presentation] Automatic Configuration of Galaxy Servers over Multiple Cloud Platforms Using Virtual Cloud Provider. Tomoya Tanjo, Kento Aida, Atsuko Takefusa, Yoshinobu Masatani, Shigetoshi Yokoyama: Galaxy Australasia Meeting 2017 (GAMe 2017), Feb. 2017.
@@ -64,8 +63,7 @@ AXIES 2019, 2019年12月．
 - [Link] ep3: A workflow engine for CWL which aims to have a pluggable architecture (Repository) [Link](https://github.com/tom-tan/ep3)
 - [Link] medal: A workflow engine based on Petri nets (Repository) [Link](https://github.com/tom-tan/medal)
 - [Link] DrillHawk: A visualizer of workflow execution records for CWL (Repository) [Link](https://github.com/tom-tan/drill-hawk)
-
-- [Presentation] インタークラウド上でのゲノム解析ワークフロー実行支援システム，丹生 智也、佐賀 一繁、孫 静涛、竹房 あつ子、合田 憲人，Cloud Week 2020@Hokkaido University，2020年9月． [Link](https://www.youtube.com/watch?v=gKzkayAPC1w&feature=emb_logo)
+- [Presentation] インタークラウド上でのゲノム解析ワークフロー実行支援システム，丹生 智也、佐賀 一繁、孫 静涛、竹房 あつ子、合田 憲人，Cloud Week 2020@Hokkaido University，2020年9月． [Movie](https://www.youtube.com/watch?v=gKzkayAPC1w&feature=emb_logo)
 - [Poster] ネットワークとクラウドを活用してデータ収集から解析まで - IoT、ビッグデータ、教育基盤，NII オープンハウス，2020年6月． [PDF](https://www.nii.ac.jp/event/upload/A01-1_oh2020.pdf)
 - [Presentation] 雑に始めるCWL！，丹生 智也，第8回生命医薬情報学連合大会(IIBMP2019)，2019年9月． [Link](https://docs.google.com/presentation/d/1XwOC18LzDvaTqw1QAGI6L7djhL5CEkQL5aiGZEdnK1Y/edit#slide=id.g60d002c0b6_5_60)
 - [Presentation] 実行環境の再構成を実現するためのミドルウェア技術と解析ワークフローへの応用，丹生 智也，佐賀 一繁，孫 静涛，竹房 あつ子，合田 憲人，Cloud Week 2019@Hokkaido University，2019年9月．
