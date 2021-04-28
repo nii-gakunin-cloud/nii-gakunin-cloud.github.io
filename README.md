@@ -15,6 +15,7 @@
 ## Overview
 ### English
 - [Link] Center for Cloud Research and Development (Official Site) [Link](https://www.nii.ac.jp/en/research/centers/ccrd/)
+- [Checklist] GakuNin Cloud Adoption Support Service Cloud Checklist [Link](https://www.dropbox.com/s/31h0z6us4f83xsp/CloudChecklistVer.5.0_EN.pdf?dl=0)
 - [Posters] Building Academic Inter-Cloud Infrastructure, SC19, Nov. 2019. [Link](https://www.dropbox.com/s/3m2f2949c46b0cd/SC19_NII.pdf?dl=0)
 - [Posters] Building Academic Inter-Cloud Infrastructure, SC18, Nov. 2018. [Link](https://www.dropbox.com/s/3y3ikj1hc02z263/SC18_NII.pdf?dl=0)
 
