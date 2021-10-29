@@ -16,6 +16,7 @@
 ### English
 - [Link] Center for Cloud Research and Development (Official Site) [Link](https://www.nii.ac.jp/en/research/centers/ccrd/)
 - [Checklist] GakuNin Cloud Adoption Support Service Cloud Checklist [Link](https://www.dropbox.com/s/31h0z6us4f83xsp/CloudChecklistVer.5.0_EN.pdf?dl=0)
+- [Link] Academic Cloud Infrastructure for Data-Driven Science, SC21, Nov. 2021. [Link](https://ccrd.nii.ac.jp/sc21/)
 - [Link] Building Academic Inter-Cloud Infrastructure, SC20, Nov. 2020. [Link](https://ccrd.nii.ac.jp/sc20/)
 - [Posters] Building Academic Inter-Cloud Infrastructure, SC19, Nov. 2019. [Link](https://www.dropbox.com/s/3m2f2949c46b0cd/SC19_NII.pdf?dl=0)
 - [Posters] Building Academic Inter-Cloud Infrastructure, SC18, Nov. 2018. [Link](https://www.dropbox.com/s/3y3ikj1hc02z263/SC18_NII.pdf?dl=0)
@@ -23,7 +24,7 @@
 ### Japanese
 - [Link] 学認クラウド (公式サイト) [Link](https://cloud.gakunin.jp/)
 - [Link] クラウド基盤研究開発センター (公式サイト) [Link (jp)](https://www.nii.ac.jp/research/centers/ccrd/), [Link (en)](https://www.nii.ac.jp/en/research/centers/ccrd/)
-- [Movie] Virtual Cloud Provider (VPC)～クラウド上のアプリケーション環境構築を支援するミドルウェア～ [Movie](https://www.youtube.com/watch?v=L5hm2DDpr0E)
+- [Link] Academic Cloud Infrastructure for Data-Driven Science, SC21, Nov. 2021. [Link](https://ccrd.nii.ac.jp/sc21/)
 - [Link] Building Academic Inter-Cloud Infrastructure, SC20, Nov. 2020. [Link](https://ccrd.nii.ac.jp/sc20/)
 - [Posters] Building Academic Inter-Cloud Infrastructure, SC19, Nov. 2019. [Link](https://www.dropbox.com/s/3m2f2949c46b0cd/SC19_NII.pdf?dl=0)
 - [Posters] Building Academic Inter-Cloud Infrastructure, SC18, Nov. 2018. [Link](https://www.dropbox.com/s/3y3ikj1hc02z263/SC18_NII.pdf?dl=0)
@@ -36,8 +37,16 @@
 - [Paper] Reproducible Scientific Computing Environment with Overlay Cloud Architecture, Shigetoshi Yokohama, Yoshinobu Masatani, Tazro Ohta, Osamu Ogasawara, Nobukazu Yoshioka, Kai Liu, Kento Aida, Proc. the 9th IEEE International Conference on Cloud Computing (IEEE CLOUD 2016), pp. 774-781, Jul. 2016. [Link](http://dx.doi.org/10.1109/CLOUD.2016.0107)
 
 ### Japanese
+- [Movie] Virtual Cloud Provider (VCP)～クラウド上のアプリケーション環境構築を支援するミドルウェア～ [Movie](https://www.youtube.com/watch?v=L5hm2DDpr0E)
 - [Link] 学認クラウドオンデマンド構築サービス (公式サイト) [Link](https://cloud.gakunin.jp/ocs/)
-- [Link] 学認クラウドオンデマンド構築サービス 過去のハンズオン教材 [Link](https://github.com/nii-gakunin-cloud/handson)
+- [Link] 学認クラウドオンデマンド構築サービス ハンズオン教材 [Link](https://github.com/nii-gakunin-cloud/handson)
+- [Link] 学認クラウドオンデマンド構築サービス アプリケーションテンプレート [Link](https://github.com/nii-gakunin-cloud/ocs-templates)
+
+- [Link] NII オープンフォーラム202１ クラウドトラック2 「学認クラウドオンデマンド構築サービス・SINETStream」， 2021年7月． [Link](https://www.nii.ac.jp/openforum/2021/day2_cloud2.html)
+- [Link] NII オープンフォーラム202１ クラウドトラック5 「学認クラウドオンデマンド構築サービス・ハンズオン」， 2021年7月． [Link](https://www.nii.ac.jp/openforum/2021/day3_cloud5.html)
+- [Paper] インタークラウド環境構築システムによるHPCクラスタ環境構築支援, 竹房 あつ子, 佐賀 一繁, 横山 重俊, 丹生 智也, 合田 憲人, 情報処理学会研究報告, Vol. 2021-HPC-179, No. 3, pp. 1-10, 2021年5月.
+- [Paper] VCPによるCPUアーキテクチャが異なるHPCシステムとクラウドの連携, 佐賀 一繁, 三浦 信一, 丹生 智也, 竹房 あつ子, 横山 重俊, 合田 憲人, 情報処理学会研究報告, Vol. 2021-HPC-179, No. 2, pp. 1-6, 2021年5月.
+- [Poster] 学認クラウドオンデマンド構築サービスによるマルチクラウド環境, 佐賀 一繁, 竹房 あつ子, 丹生 智也, 横山 重俊, 合田 憲人, 大学ICT推進協議会 2020年度年次大会 (AXIES2020) 2020年12月9日. （最優秀ポスター賞）
 - [Link] NII オープンフォーラム2020 クラウドトラック(2) 「学認クラウドオンデマンド構築サービス・SINETStream」， 2020年6月． [Link](https://www.nii.ac.jp/openforum/2020/day2_cloud2.html)
 - [Poster] 学認クラウドオンデマンド構築サービス, 佐賀 一繁, 竹房 あつ子, 丹生 智也, 横山 重俊, 合田 憲人,
 AXIES 2019, 2019年12月．
@@ -110,9 +119,12 @@ AXIES 2019, 2019年12月．
 ## IoT Stream Processing (SINETStream)
 ### English
 - [Link] SINETStream (Official Site). [Link](https://www.sinetstream.net/index.en.html)
+- [Paper] SINETStream: Enabling Research IoT Applications with Portability, Security and Performance Requirements, Atsuko Takefusa, Jingtao Sun, Ikki Fujiwara, Hiroshi Yoshida, Kento Aida, Calton Pu, IT in Practice (ITiP) Symposium, COMPSAC 2021, pp. 482-492, 2021年7月.
 
 ### Japanese
 - [Link] SINETStream (公式サイト) [Link](https://nii-gakunin-cloud.github.io/sinetstream/)
+- [Paper] SINETStream: Enabling Research IoT Applications with Portability, Security and Performance Requirements, Atsuko Takefusa, Jingtao Sun, Ikki Fujiwara, Hiroshi Yoshida, Kento Aida, Calton Pu, IT in Practice (ITiP) Symposium, COMPSAC 2021, pp. 482-492, 2021年7月.
+- [Paper] IoTアプリケーションのためのSINETStreamベースAndroidセンサ情報収集アプリの開発, 竹房 あつ子, 小林 久美子, 孫 静涛, 合田 憲人, マルチメディア，分散，協調とモバイル(DICOMO2021)シンポジウム論文集, pp. 1068-1074, 2021年7月.
 - [Presentation] SINETStreamによるIoTアプリケーション開発支援, 竹房あつ子, ADVNET2020, 2020年10月9日. [Link](https://www.sinet.ad.jp/events/advnet2020)
 - [Paper] SINET広域データ収集基盤を用いたオンラインビデオ処理実証実験, 竹房 あつ子, 孫 静涛, 藤原 一毅, 長久 勝, 吉田 浩, 政谷 好伸, 合田 憲人, 情報処理学会論文誌デジタルプラクティス, vol. 1, no. 1, pp. 45 – 57, 2020年10月. [Link](http://id.nii.ac.jp/1001/00207284/)
 - [Presentation] エッジ・クラウドを活用したIoTアプリケーション構築技術, 竹房 あつ子, ネットワーク仮想化研究会招待講演 2020年9月10日.
