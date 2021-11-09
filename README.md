@@ -94,7 +94,7 @@
 <a name="lc4ri"> </a>
 
 ## Literate Computing for Reproducible Infrastructure (LC4RI)
-### English - [Literate-Computing.github.io](https://literate-computing.github.io/)
+### English - [Literate-Computing.github.io](https://literate-computing.github.io/fastpages/)
 - [Repository] [NII Cloud Operation Team](https://github.com/NII-cloud-operation)
 - [Poster] sidestickies - Collaborative Annotation for Jupyter Notebook. Yoshi NOBU Masatani: JupyterCon 2020, Oct. 2020. [link](https://cfp.jupytercon.com/2020/schedule/presentation/168/sidestickies-collaborative-annotation-for-jupyter-notebook/), [Talk](https://www.youtube.com/embed/dObubiHnEBk?start=1565&end=1660&version=3)
 - [Poster] OperationHub - Enhanced JupyterHub for DevOps Engineers. Yoshi NOBU Masatani: JupyterCon 2020, Oct. 2020. [link](https://cfp.jupytercon.com/2020/schedule/presentation/141/operationhub-enhanced-jupyterhub-for-devops-engineers/), [Talk](https://www.youtube.com/embed/dObubiHnEBk?start=1210&end=1335&version=3)
