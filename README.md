@@ -9,13 +9,13 @@
 - [Literate Computing for Reproducible Infrastructure (LC4RI)](#lc4ri)
 - [PoC of Storing Scientific Research Data in Cloud Cold Storage Services](#storage)
 - [IoT Stream Processing (SINETStream)](#sinetstream)
+- [Cloud Service Checklist](#checklist)
 
 <a name="overview"> </a>
 
 ## Overview
 ### English
 - [Link] Center for Cloud Research and Development (Official Site) [Link](https://www.nii.ac.jp/en/research/centers/ccrd/)
-- [Checklist] GakuNin Cloud Adoption Support Service Cloud Checklist [Link](https://www.dropbox.com/s/v4i4aybo7livgno/CloudChecklistVer.5.1_EN.pdf?dl=0)
 - [Link] Academic Cloud Infrastructure for Data-Driven Science, SC21, Nov. 2021. [Link](https://ccrd.nii.ac.jp/sc21/)
 - [Link] Building Academic Inter-Cloud Infrastructure, SC20, Nov. 2020. [Link](https://ccrd.nii.ac.jp/sc20/)
 - [Posters] Building Academic Inter-Cloud Infrastructure, SC19, Nov. 2019. [Link](https://www.dropbox.com/s/3m2f2949c46b0cd/SC19_NII.pdf?dl=0)
@@ -138,4 +138,15 @@
 - [Link] ニュースリリース: 広域データ収集・解析プログラム開発を支援するソフトウェアパッケージ「SINETStream(サイネットストリーム)」を公開 ～Society 5.0の実現に向けSINET5を介した研究を推進〜 [Link](https://www.nii.ac.jp/news/release/2019/1225.html)
 - [Paper] SINET広域データ収集基盤のための基盤ソフトウェアの検討, 孫 静涛， 藤原 一毅， 竹房 あつ子， 長久 勝， 吉田 浩， 政谷 好伸， 合田 憲人, 情報処理学会研究報告 Vol.2019-OS-147(11), pp. 1-9, 2019年7月.
 - [Paper] SINET広域データ収集基盤を用いたリアルタイムビデオ処理機構の検討, 竹房 あつ子, 孫 静涛, 長久 勝, 吉田 浩, 政谷 好伸, 合田 憲人, マルチメディア，分散，協調とモバイル DICOMO2019シンポジウム論文集, pp. 1581-1588, 2019年7月.
+
+<a name="checklist"> </a>
+
+## Cloud Service Checklist
+### English
+- [Checklist] GakuNin Cloud Adoption Support Service Cloud Checklist [Link](https://www.dropbox.com/s/v4i4aybo7livgno/CloudChecklistVer.5.1_EN.pdf?dl=0)
+
+### Japanese
+- [Checklist] ゲノム医科学研究のためのクラウドチェックリスト [Link](https://www.dropbox.com/s/y2idbn55jgvw7gx/Checklist_CRa_Ver12.pdf?dl=0)
+- [Checklist] ゲノム医科学研究のためのクラウドチェックリスト解説 [Link](https://www.dropbox.com/s/5dfivss2hfehn3i/Genome_chklst_Intro_Ver12.pdf?dl=0)
+- [Checklist] ゲノム医科学研究のためのクラウドチェックリスト tsvファイル [Link](https://www.dropbox.com/s/dioo4v2sju0a5jw/Checklist_CRa_Ver12.tsv?dl=0) [sha256sum.txt](https://www.dropbox.com/s/tw6q1tc8aqgfkoa/sha256sum.txt?dl=0)
 
