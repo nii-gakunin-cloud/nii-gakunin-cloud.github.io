@@ -123,7 +123,7 @@
 ## IoT Stream Processing (SINETStream)
 ### English
 - [Link] SINETStream (Official Site). [Link](https://www.sinetstream.net/index.en.html)
-- [Paper] SINETStream: Enabling Research IoT Applications with Portability, Security and Performance Requirements, Atsuko Takefusa, Jingtao Sun, Ikki Fujiwara, Hiroshi Yoshida, Kento Aida, Calton Pu, IT in Practice (ITiP) Symposium, COMPSAC 2021, pp. 482-492, 2021年7月.
+- [Paper] SINETStream: Enabling Research IoT Applications with Portability, Security and Performance Requirements, Atsuko Takefusa, Jingtao Sun, Ikki Fujiwara, Hiroshi Yoshida, Kento Aida, Calton Pu, 2021 IEEE 45th Annual Computers, Software, and Applications Conference (COMPSAC), pp. 482-492, 2021年7月.
 
 ### Japanese
 - [Link] SINETStream (公式サイト) [Link](https://nii-gakunin-cloud.github.io/sinetstream/)
