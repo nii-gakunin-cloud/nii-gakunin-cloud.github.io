@@ -127,8 +127,11 @@
 
 ### Japanese
 - [Link] SINETStream (公式サイト) [Link](https://nii-gakunin-cloud.github.io/sinetstream/)
-- [Paper] SINETStream: Enabling Research IoT Applications with Portability, Security and Performance Requirements, Atsuko Takefusa, Jingtao Sun, Ikki Fujiwara, Hiroshi Yoshida, Kento Aida, Calton Pu, IT in Practice (ITiP) Symposium, COMPSAC 2021, pp. 482-492, 2021年7月.
+- [Link] NII オープンフォーラム2022 クラウドトラック2 「学認クラウドオンデマンド構築サービス・SINETStream」， 2022年6月． [Link](https://www.nii.ac.jp/openforum/2022/day3_cloud2.html)
+- [Paper] IoTアプリケーションシステムのための安全なユーザ間データ共有機構の開発, 北川 直哉, 竹房 あつ子, 合田 憲人, 研究報告セキュリティ心理学とトラスト（SPT）, 2022-SPT-46(23), pp. 1-6, 2022年3月.
+- [Paper] SINETStream: Enabling Research IoT Applications with Portability, Security and Performance Requirements, Atsuko Takefusa, Jingtao Sun, Ikki Fujiwara, Hiroshi Yoshida, Kento Aida, Calton Pu, IT in Practice (ITiP) Symposium, IEEE COMPSAC 2021, pp. 482-492, 2021年7月.
 - [Paper] IoTアプリケーションのためのSINETStreamベースAndroidセンサ情報収集アプリの開発, 竹房 あつ子, 小林 久美子, 孫 静涛, 合田 憲人, マルチメディア，分散，協調とモバイル(DICOMO2021)シンポジウム論文集, pp. 1068-1074, 2021年7月.
+- [Link] NII オープンフォーラム2021 クラウドトラック2 「学認クラウドオンデマンド構築サービス・SINETStream」， 2021年7月． [Link](https://www.nii.ac.jp/openforum/2021/day2_cloud2.html)
 - [Presentation] SINETStreamによるIoTアプリケーション開発支援, 竹房あつ子, ADVNET2020, 2020年10月9日. [Link](https://www.sinet.ad.jp/events/advnet2020)
 - [Paper] SINET広域データ収集基盤を用いたオンラインビデオ処理実証実験, 竹房 あつ子, 孫 静涛, 藤原 一毅, 長久 勝, 吉田 浩, 政谷 好伸, 合田 憲人, 情報処理学会論文誌デジタルプラクティス, vol. 1, no. 1, pp. 45 – 57, 2020年10月. [Link](http://id.nii.ac.jp/1001/00207284/)
 - [Presentation] エッジ・クラウドを活用したIoTアプリケーション構築技術, 竹房 あつ子, ネットワーク仮想化研究会招待講演 2020年9月10日.
