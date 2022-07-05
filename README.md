@@ -43,8 +43,8 @@
 - [Link] 学認クラウドオンデマンド構築サービス アプリケーションテンプレート [Link](https://github.com/nii-gakunin-cloud/ocs-templates)
 - [Link] NII オープンフォーラム202１ クラウドトラック2 「学認クラウドオンデマンド構築サービス・SINETStream」， 2021年7月． [Link](https://www.nii.ac.jp/openforum/2021/day2_cloud2.html)
 - [Link] NII オープンフォーラム202１ クラウドトラック5 「学認クラウドオンデマンド構築サービス・ハンズオン」， 2021年7月． [Link](https://www.nii.ac.jp/openforum/2021/day3_cloud5.html)
-- [Paper] インタークラウド環境構築システムによるHPCクラスタ環境構築支援, 竹房 あつ子, 佐賀 一繁, 横山 重俊, 丹生 智也, 合田 憲人, 情報処理学会研究報告, Vol. 2021-HPC-179, No. 3, pp. 1-10, 2021年5月.
-- [Paper] VCPによるCPUアーキテクチャが異なるHPCシステムとクラウドの連携, 佐賀 一繁, 三浦 信一, 丹生 智也, 竹房 あつ子, 横山 重俊, 合田 憲人, 情報処理学会研究報告, Vol. 2021-HPC-179, No. 2, pp. 1-6, 2021年5月.
+- [Paper] インタークラウド環境構築システムによるHPCクラスタ環境構築支援, 竹房 あつ子, 佐賀 一繁, 横山 重俊, 丹生 智也, 合田 憲人, 情報処理学会研究報告, Vol. 2021-HPC-179, No. 3, pp. 1-10, 2021年5月. [Link](http://id.nii.ac.jp/1001/00210947/)
+- [Paper] VCPによるCPUアーキテクチャが異なるHPCシステムとクラウドの連携, 佐賀 一繁, 三浦 信一, 丹生 智也, 竹房 あつ子, 横山 重俊, 合田 憲人, 情報処理学会研究報告, Vol. 2021-HPC-179, No. 2, pp. 1-6, 2021年5月. [Link](http://id.nii.ac.jp/1001/00210946/)
 - [Poster] 学認クラウドオンデマンド構築サービスによるマルチクラウド環境, 佐賀 一繁, 竹房 あつ子, 丹生 智也, 横山 重俊, 合田 憲人, 大学ICT推進協議会 2020年度年次大会 (AXIES2020) 2020年12月9日. （最優秀ポスター賞）
 - [Link] NII オープンフォーラム2020 クラウドトラック(2) 「学認クラウドオンデマンド構築サービス・SINETStream」， 2020年6月． [Link](https://www.nii.ac.jp/openforum/2020/day2_cloud2.html)
 - [Poster] 学認クラウドオンデマンド構築サービス, 佐賀 一繁, 竹房 あつ子, 丹生 智也, 横山 重俊, 合田 憲人, AXIES 2019, 2019年12月．
@@ -52,7 +52,7 @@
 - [Link] ニュースリリース: クラウド計算環境を容易に構築・再構築／「学認クラウドオンデマンド構築サービス」の本運用を10月1日から開始. [Link](https://www.nii.ac.jp/news/release/2018/1001.html)
 - [Link] NII オープンフォーラム2018 クラウドトラック(3) 「オンデマンドクラウド構築サービス」， 2018年6月． [Link](https://www.nii.ac.jp/service/openforum2018/track/day2_6.html)
 - [Poster] 学認クラウドオンデマンド構築サービス（H30年10月開始予定）， 竹房 あつ子， NII オープンハウス， 2018年6月． [PDF](https://www.nii.ac.jp/event/openhouse/2018/upload/A19-2-2018.pdf)
-- [Paper] インタークラウド環境構築システムによるアプリケーション環境構築支援のための機能拡張, 竹房 あつ子， 丹生 智也， 佐賀 一繁， 横山 重俊， 合田 憲人, 情報処理学会研究報告 Vol.2018-OS-144(10), pp. 1-10, 2018年7月. 
+- [Paper] インタークラウド環境構築システムによるアプリケーション環境構築支援のための機能拡張, 竹房 あつ子， 丹生 智也， 佐賀 一繁， 横山 重俊， 合田 憲人, 情報処理学会研究報告 Vol.2018-OS-144(10), pp. 1-10, 2018年7月. [Link](http://id.nii.ac.jp/1001/00190547/) 
 - [Paper] Virtual Cloud Service System for Building Effective Inter-Cloud Applications, Atsuko Takefusa, Shigetoshi Yokoyama, Yoshinobu Masatani, Tomoya Tanjo, Kazushige Saga, Masaru Nagaku, Kento Aida, Proc. IEEE CloudCom 2017, pp. 296-303, Dec. 2017. [Link](http://dx.doi.org/10.1109/CloudCom.2017.48)
 - [Paper] SINETを活用したインタークラウド環境構築システムの開発, 竹房 あつ子, 横山 重俊, 政谷 好伸, 丹生 智也, 佐賀 一繁, 長久 勝, 合田 憲人, 電子情報通信学会技術研究報告 CPSY2017-17, pp. 7-12, 2017年7月. [Link](https://www.ieice.org/ken/paper/20170726ibv7/)
 - [Link] クラウドトラック 「オンデマンドクラウド構築サービスとその活用事例」， NII オープンフォーラム， 2017年6月． [Link](https://www.nii.ac.jp/csi/openforum2017/track/day2_4.html)
@@ -130,17 +130,17 @@
 - [Link] NII オープンフォーラム2022 クラウドトラック2 「学認クラウドオンデマンド構築サービス・SINETStream」， 2022年6月． [Link](https://www.nii.ac.jp/openforum/2022/day3_cloud2.html)
 - [Paper] IoTアプリケーションシステムのための安全なユーザ間データ共有機構の開発, 北川 直哉, 竹房 あつ子, 合田 憲人, 研究報告セキュリティ心理学とトラスト（SPT）, 2022-SPT-46(23), pp. 1-6, 2022年3月.
 - [Paper] SINETStream: Enabling Research IoT Applications with Portability, Security and Performance Requirements, Atsuko Takefusa, Jingtao Sun, Ikki Fujiwara, Hiroshi Yoshida, Kento Aida, Calton Pu, IT in Practice (ITiP) Symposium, IEEE COMPSAC 2021, pp. 482-492, 2021年7月.
-- [Paper] IoTアプリケーションのためのSINETStreamベースAndroidセンサ情報収集アプリの開発, 竹房 あつ子, 小林 久美子, 孫 静涛, 合田 憲人, マルチメディア，分散，協調とモバイル(DICOMO2021)シンポジウム論文集, pp. 1068-1074, 2021年7月.
+- [Paper] IoTアプリケーションのためのSINETStreamベースAndroidセンサ情報収集アプリの開発, 竹房 あつ子, 小林 久美子, 孫 静涛, 合田 憲人, マルチメディア，分散，協調とモバイル(DICOMO2021)シンポジウム論文集, pp. 1068-1074, 2021年7月. [Link](http://id.nii.ac.jp/1001/00212940/)
 - [Link] NII オープンフォーラム2021 クラウドトラック2 「学認クラウドオンデマンド構築サービス・SINETStream」， 2021年7月． [Link](https://www.nii.ac.jp/openforum/2021/day2_cloud2.html)
 - [Presentation] SINETStreamによるIoTアプリケーション開発支援, 竹房あつ子, ADVNET2020, 2020年10月9日. [Link](https://www.sinet.ad.jp/events/advnet2020)
-- [Paper] SINET広域データ収集基盤を用いたオンラインビデオ処理実証実験, 竹房 あつ子, 孫 静涛, 藤原 一毅, 長久 勝, 吉田 浩, 政谷 好伸, 合田 憲人, 情報処理学会論文誌デジタルプラクティス, vol. 1, no. 1, pp. 45 – 57, 2020年10月. [Link](http://id.nii.ac.jp/1001/00207284/)
+- [Paper] SINET広域データ収集基盤を用いたオンラインビデオ処理実証実験, 竹房 あつ子, 孫 静涛, 藤原 一毅, 長久 勝, 吉田 浩, 政谷 好伸, 合田 憲人, 情報処理学会論文誌デジタルプラクティス, vol. 1, no. 1, pp. 45 – 57, 2020年10月. [Link](http://id.nii.ac.jp/1001/00207284/) 
 - [Presentation] エッジ・クラウドを活用したIoTアプリケーション構築技術, 竹房 あつ子, ネットワーク仮想化研究会招待講演 2020年9月10日.
 - [Paper] IoTアプリ構築支援のためのSINETStream Android用プラグインの開発, 孫 静涛, 竹房 あつ子, 藤原 一毅, 吉田 浩, 合田 憲人, マルチメディア，分散，協調とモバイル(DICOMO2020)シンポジウム, pp. 421-427, 2020年6月24日.
 - [Link] NII オープンフォーラム2020 クラウドトラック(2) 「学認クラウドオンデマンド構築サービス・SINETStream」， 2020年6月． [Link](https://www.nii.ac.jp/openforum/2020/day2_cloud2.html)
-- [Paper] IoT ストリームデータ処理のためのソフトウェアライブラリ SINETStream の開発, 竹房 あつ子, 孫 静涛, 藤原 一毅, 吉田 浩, 合田 憲人, 情報処理学会研究報告 2020-IOT-48, no. 19, pp. 1-8, 2020年3月.
+- [Paper] IoT ストリームデータ処理のためのソフトウェアライブラリ SINETStream の開発, 竹房 あつ子, 孫 静涛, 藤原 一毅, 吉田 浩, 合田 憲人, 情報処理学会研究報告 2020-IOT-48, no. 19, pp. 1-8, 2020年3月. [Link](http://id.nii.ac.jp/1001/00203415/) 
 - [Link] ニュースリリース: 広域データ収集・解析プログラム開発を支援するソフトウェアパッケージ「SINETStream(サイネットストリーム)」を公開 ～Society 5.0の実現に向けSINET5を介した研究を推進〜 [Link](https://www.nii.ac.jp/news/release/2019/1225.html)
-- [Paper] SINET広域データ収集基盤のための基盤ソフトウェアの検討, 孫 静涛， 藤原 一毅， 竹房 あつ子， 長久 勝， 吉田 浩， 政谷 好伸， 合田 憲人, 情報処理学会研究報告 Vol.2019-OS-147(11), pp. 1-9, 2019年7月.
-- [Paper] SINET広域データ収集基盤を用いたリアルタイムビデオ処理機構の検討, 竹房 あつ子, 孫 静涛, 長久 勝, 吉田 浩, 政谷 好伸, 合田 憲人, マルチメディア，分散，協調とモバイル DICOMO2019シンポジウム論文集, pp. 1581-1588, 2019年7月.
+- [Paper] SINET広域データ収集基盤のための基盤ソフトウェアの検討, 孫 静涛， 藤原 一毅， 竹房 あつ子， 長久 勝， 吉田 浩， 政谷 好伸， 合田 憲人, 情報処理学会研究報告 Vol.2019-OS-147(11), pp. 1-9, 2019年7月. [Link](http://id.nii.ac.jp/1001/00197932/) 
+- [Paper] SINET広域データ収集基盤を用いたリアルタイムビデオ処理機構の検討, 竹房 あつ子, 孫 静涛, 長久 勝, 吉田 浩, 政谷 好伸, 合田 憲人, マルチメディア，分散，協調とモバイル DICOMO2019シンポジウム論文集, pp. 1581-1588, 2019年7月. [Link](http://id.nii.ac.jp/1001/00202408/) 
 
 <a name="checklist"> </a>
 
