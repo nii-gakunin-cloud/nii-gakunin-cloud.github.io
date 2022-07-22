@@ -147,9 +147,10 @@
 ## Cloud Service Checklist
 ### English
 - [Checklist] GakuNin Cloud Adoption Support Service Cloud Checklist [Link](https://www.dropbox.com/s/v4i4aybo7livgno/CloudChecklistVer.5.1_EN.pdf?dl=0)
+- [Checklist] Cloud Checklist for Genome Medical Research [Link](https://www.dropbox.com/s/vjxt8ivwolsq6w5/Checklist_CRa_Ver12r1_EN.pdf?dl=0)
+- [Checklist] Cloud Checklist for Genome Medical Research tsv file [Link](https://www.dropbox.com/s/jo7292t00hip7tu/Checklist_CRa_Ver12r1_EN.tsv?dl=0) [sha256sum.txt](https://www.dropbox.com/s/sjjwpfnxx11qm38/sha256sum.txt?dl=0)
 
 ### Japanese
-- [Checklist] ゲノム医科学研究のためのクラウドチェックリスト [Link](https://www.dropbox.com/s/y2idbn55jgvw7gx/Checklist_CRa_Ver12.pdf?dl=0)
-- [Checklist] ゲノム医科学研究のためのクラウドチェックリスト解説 [Link](https://www.dropbox.com/s/5dfivss2hfehn3i/Genome_chklst_Intro_Ver12.pdf?dl=0)
-- [Checklist] ゲノム医科学研究のためのクラウドチェックリスト tsvファイル [Link](https://www.dropbox.com/s/dioo4v2sju0a5jw/Checklist_CRa_Ver12.tsv?dl=0) [sha256sum.txt](https://www.dropbox.com/s/tw6q1tc8aqgfkoa/sha256sum.txt?dl=0)
-
+- [Checklist] ゲノム医科学研究のためのクラウドチェックリスト [Link](https://www.dropbox.com/s/77ft3lkb96uynna/Checklist_CRa_Ver12r1.pdf?dl=0)
+- [Checklist] ゲノム医科学研究のためのクラウドチェックリスト解説 [Link](https://www.dropbox.com/s/zzv5ctao9u8ltgp/Genome_chklst_Intro_Ver12.pdf?dl=0)
+- [Checklist] ゲノム医科学研究のためのクラウドチェックリスト tsvファイル [Link](https://www.dropbox.com/s/u8nqtqjdi4g7r7r/Checklist_CRa_Ver12r1.tsv?dl=0) [sha256sum.txt](https://www.dropbox.com/s/0xvlaksgmve8zti/sha256sum.txt?dl=0)
