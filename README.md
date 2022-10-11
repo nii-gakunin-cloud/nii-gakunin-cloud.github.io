@@ -131,6 +131,7 @@
 - [Paper] 船上監視を支援する物体検出システムの設計, 陳 明康, 孫 静涛, 合田 憲人, 情報処理学会研究報告 2022-DPS-192(13) 2022年9月2日 [Link](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=219553&item_no=1&page_id=13&block_id=8)
 - [Link] NII オープンフォーラム2022 クラウドトラック2 「学認クラウドオンデマンド構築サービス・SINETStream」， 2022年6月． [Link](https://www.nii.ac.jp/openforum/2022/day3_cloud2.html)
 - [Paper] IoTアプリケーションシステムのための安全なユーザ間データ共有機構の開発, 北川 直哉, 竹房 あつ子, 合田 憲人, 研究報告セキュリティ心理学とトラスト（SPT）, 2022-SPT-46(23), pp. 1-6, 2022年3月.
+- [Paper] Intelligent Live Video Streaming for Object Detection, Mingkang Chen, Jingtao Sun, Kento Aida, Renato Figueiredo, Yun-Jung Ku, Kensworth Subratie,　Proceedings on the 19th IEEE International Conference on Smart City (Smart City 2021) 1427-1434 2021年12月. [Link] (https://ieeexplore.ieee.org/abstract/document/9781127)
 - [Paper] SINETStream: Enabling Research IoT Applications with Portability, Security and Performance Requirements, Atsuko Takefusa, Jingtao Sun, Ikki Fujiwara, Hiroshi Yoshida, Kento Aida, Calton Pu, IT in Practice (ITiP) Symposium, IEEE COMPSAC 2021, pp. 482-492, 2021年7月.
 - [Paper] IoTアプリケーションのためのSINETStreamベースAndroidセンサ情報収集アプリの開発, 竹房 あつ子, 小林 久美子, 孫 静涛, 合田 憲人, マルチメディア，分散，協調とモバイル(DICOMO2021)シンポジウム論文集, pp. 1068-1074, 2021年7月. [Link](http://id.nii.ac.jp/1001/00212940/)
 - [Link] NII オープンフォーラム2021 クラウドトラック2 「学認クラウドオンデマンド構築サービス・SINETStream」， 2021年7月． [Link](https://www.nii.ac.jp/openforum/2021/day2_cloud2.html)
