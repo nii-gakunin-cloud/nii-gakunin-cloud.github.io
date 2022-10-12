@@ -155,6 +155,7 @@
 - [Checklist] Cloud Checklist for Genome Medical Research tsv file [Link](https://www.dropbox.com/s/jo7292t00hip7tu/Checklist_CRa_Ver12r1_EN.tsv?dl=0) [sha256sum.txt](https://www.dropbox.com/s/sjjwpfnxx11qm38/sha256sum.txt?dl=0)
 
 ### Japanese
+- [Checklist] HPC用チェックリスト [Link](https://www.dropbox.com/s/a4p0eaexk8f9akq/Checklist_HPC_Ver.1.1.pdf?dl=0)
 - [Checklist] ゲノム医科学研究のためのクラウドチェックリスト [Link](https://www.dropbox.com/s/77ft3lkb96uynna/Checklist_CRa_Ver12r1.pdf?dl=0)
 - [Checklist] ゲノム医科学研究のためのクラウドチェックリスト解説 [Link](https://www.dropbox.com/s/zzv5ctao9u8ltgp/Genome_chklst_Intro_Ver12.pdf?dl=0)
 - [Checklist] ゲノム医科学研究のためのクラウドチェックリスト tsvファイル [Link](https://www.dropbox.com/s/u8nqtqjdi4g7r7r/Checklist_CRa_Ver12r1.tsv?dl=0) [sha256sum.txt](https://www.dropbox.com/s/0xvlaksgmve8zti/sha256sum.txt?dl=0)
