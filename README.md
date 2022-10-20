@@ -41,7 +41,10 @@
 - [Link] 学認クラウドオンデマンド構築サービス (公式サイト) [Link](https://cloud.gakunin.jp/ocs/)
 - [Link] 学認クラウドオンデマンド構築サービス ハンズオン教材 [Link](https://github.com/nii-gakunin-cloud/handson)
 - [Link] 学認クラウドオンデマンド構築サービス アプリケーションテンプレート [Link](https://github.com/nii-gakunin-cloud/ocs-templates)
-- [Link] NII オープンフォーラム202１ クラウドトラック2 「学認クラウドオンデマンド構築サービス・SINETStream」， 2021年7月． [Link](https://www.nii.ac.jp/openforum/2021/day2_cloud2.html)
+- [Paper] クラウド環境構築システムVCPのmdxへの適用とOSS化に向けた試作, 大江 和一，竹房 あつ子，丹生 智也，塙 敏博，工藤 知宏, 合田 憲人, 情報処理学会研究報告, Vol. 2022-OS-156, No. 10, pp. 1-7, 2021年5月. [Link](http://id.nii.ac.jp/1001/00218876/)
+- [Link] NII オープンフォーラム2022 クラウドトラック2 「学認クラウドオンデマンド構築サービス・SINETStream」， 2022年6月． [Link](https://www.nii.ac.jp/openforum/2021/day2_cloud2.html)
+- [Poster] ポータブル版Virtual Cloud Providerの開発, 佐賀 一繁, 丹生 智也, 竹房　あつ子, 合田 憲人, 大学ICT推進協議会 2021年度年次大会 (AXIES2021) 2021年12月.
+- [Link] NII オープンフォーラム202１ クラウドトラック2 「学認クラウドオンデマンド構築サービス・SINETStream」， 2021年7月． [Link](https://www.nii.ac.jp/openforum/2022/day3_cloud2.html)
 - [Link] NII オープンフォーラム202１ クラウドトラック5 「学認クラウドオンデマンド構築サービス・ハンズオン」， 2021年7月． [Link](https://www.nii.ac.jp/openforum/2021/day3_cloud5.html)
 - [Paper] インタークラウド環境構築システムによるHPCクラスタ環境構築支援, 竹房 あつ子, 佐賀 一繁, 横山 重俊, 丹生 智也, 合田 憲人, 情報処理学会研究報告, Vol. 2021-HPC-179, No. 3, pp. 1-10, 2021年5月. [Link](http://id.nii.ac.jp/1001/00210947/)
 - [Paper] VCPによるCPUアーキテクチャが異なるHPCシステムとクラウドの連携, 佐賀 一繁, 三浦 信一, 丹生 智也, 竹房 あつ子, 横山 重俊, 合田 憲人, 情報処理学会研究報告, Vol. 2021-HPC-179, No. 2, pp. 1-6, 2021年5月. [Link](http://id.nii.ac.jp/1001/00210946/)
