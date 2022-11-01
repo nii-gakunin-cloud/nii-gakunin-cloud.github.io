@@ -1,5 +1,5 @@
 This list is outdated.
-See https://ccrd.nii.ac.jp/publications/ instead.
+See [https://ccrd.nii.ac.jp/publications/](https://ccrd.nii.ac.jp/publications/) instead.
 
 ---
 # Center for Cloud Research and Development, NII
